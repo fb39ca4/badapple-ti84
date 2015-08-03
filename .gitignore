@@ -1,0 +1,9 @@
+bin/
+allsizes/
+util/*
+!util/*.py
+*.8xk
+music/*.asm
+
+[Tt]humbs.db
+[Dd]esktop.ini
